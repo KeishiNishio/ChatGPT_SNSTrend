@@ -33,12 +33,11 @@ This project utilizes Python, Google App Script, and the Chat GPT API to analyze
 
 ### Process Diagram
 
-![Process Diagram](Chat%20GPT%20API%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%205a934a20b58e46468cad0061a37f2c05/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2024-02-17_20.15.59.png)
+![Process Diagram](README/component.png)
 
 ### Behavior
 
-![Behavior Image](Chat%20GPT%20API%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%205a934a20b58e46468cad0061a37f2c05/IMG_9544.png)
-
+![Behavior Image](README/log.png)
 ### Main Class Structure
 
 #### 1. CSVEditor Class
@@ -68,7 +67,7 @@ Class used to send questions based on Yahoo News data to ChatGPT and receive res
 
  account through GCP.
 
-    ![Screenshot](Chat%20GPT%20API%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%205a934a20b58e46468cad0061a37f2c05/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2024-02-17_23.23.52.png)
+![Screenshot](README/twitter.png)
 
 ### Development Environment
 
