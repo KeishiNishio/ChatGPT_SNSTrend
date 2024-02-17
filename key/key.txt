@@ -1,0 +1,3 @@
+OPEN AI=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Spreadsheet  =  1lquxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+LINE Notify(GPT)=85xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
