@@ -39,7 +39,7 @@ This project utilizes Python, Google App Script, and the Chat GPT API to analyze
 
 ### Behavior
 
-<img src="README/log.png" width="500">
+<img src="README/log.png" width="300">
 
 ### Main Class Structure
 
