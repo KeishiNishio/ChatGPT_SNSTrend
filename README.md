@@ -35,9 +35,12 @@ This project utilizes Python, Google App Script, and the Chat GPT API to analyze
 
 ![Process Diagram](README/component.png)
 
+
+
 ### Behavior
 
-![Behavior Image](README/log.png)
+<img src="README/log.png" width="500">
+
 ### Main Class Structure
 
 #### 1. CSVEditor Class
